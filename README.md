@@ -17,3 +17,9 @@ ng new angular-material ^
 npm install
 
 ng update @angular/core @angular/cli rxjs --allowDirty=true
+
+ng g c start
+ng g c demoDatepicker
+
+
+
