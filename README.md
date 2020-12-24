@@ -13,3 +13,7 @@ ng new angular-material ^
 --skip-install=true ^
 --commit=false ^
 --skip-git=true
+
+npm install
+
+ng update @angular/core @angular/cli rxjs --allowDirty=true
