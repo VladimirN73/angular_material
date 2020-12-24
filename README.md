@@ -21,5 +21,5 @@ ng update @angular/core @angular/cli rxjs --allowDirty=true
 ng g c start
 ng g c demoDatepicker
 
-
+ng add @angular/material      select indigo-pink, setup global angular material typograpfy styles - true, set up browser animation for angular material - true
 
