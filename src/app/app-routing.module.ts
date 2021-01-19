@@ -5,6 +5,7 @@ import { StartComponent } from './start/start.component';
 
 const routes: Routes = [
   { path: '', pathMatch: 'full', component:StartComponent },
+  { path: 'start', component:StartComponent },
   { path: 'datepicker', component:DemoDatepickerComponent },
 ];
 
